@@ -1,4 +1,4 @@
-# DaScript
+# DaCode
 An Programming language made by Daniel.<br>
 Please do not use any of these files for your project without asking.
 ------------------------------------------------------------------------------
